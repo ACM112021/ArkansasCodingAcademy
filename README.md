@@ -1,2 +1,2 @@
 # ArkansasCodingAcademy
-C# code from various projects from the C# - SQL - HTML/CSS - JavaScript course.
+C# code from various projects during the C# - SQL - HTML/CSS - JavaScript course.
